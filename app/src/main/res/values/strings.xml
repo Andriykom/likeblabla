@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">likeblabla</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="not_reg">Not Reg</string>
+    <string name="not_registrated">Not registrated?</string>
+    <string name="register">REGISTER</string>
+    <string name="lineslash">|</string>
+    <string name="regText">Regestration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_regestered">Already Regestered?</string>
+</resources>

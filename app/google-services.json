@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281844445247",
+    "firebase_url": "https://likeblabla-b869d.firebaseio.com",
+    "project_id": "likeblabla-b869d",
+    "storage_bucket": "likeblabla-b869d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281844445247:android:b45d2ea37c94f52f6dc88a",
+        "android_client_info": {
+          "package_name": "com.andriymartsun.likeblabla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281844445247-ccs2g8d8pd2bue2865geihh1jkh7vii2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andriymartsun.likeblabla",
+            "certificate_hash": "b599fc68e59746df3061dc9d354986729f0a3a59"
+          }
+        },
+        {
+          "client_id": "281844445247-6a93m7o72timpdb5gt4e2a2is9vmnbip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp5wx502bRv06M808FfRmXwqWfgAbvSsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281844445247-6a93m7o72timpdb5gt4e2a2is9vmnbip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
